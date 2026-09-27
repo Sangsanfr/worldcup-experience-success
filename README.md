@@ -4,7 +4,7 @@
 
 This project tests that question statistically across 92 years of World Cup history — 2,136 team-matches, 23,495 individual player-appearances, and every tournament from 1930 to 2026 — using head-to-head comparisons, a logistic regression, and rank-based tournament progression analysis.
 
-**[Live interactive dashboard →](https://claude.ai/code/artifact/0415398c-ca54-4dbd-b7d8-d8875807f9a4)**
+**[Live interactive dashboard →](https://sangsanfr.github.io/worldcup-experience-success/)**
 
 <!-- Add a screenshot of the dashboard here once you've taken one, e.g.: -->
 <!-- ![Dashboard preview](assets/dashboard_preview.png) -->
